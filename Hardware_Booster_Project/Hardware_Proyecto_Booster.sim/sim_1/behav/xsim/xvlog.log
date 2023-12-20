@@ -1,0 +1,27 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/juanp/OneDrive/Desktop/SEP/ProjectSEPFinal/Hardware_Booster_Project/Hardware_Proyecto_Booster.ip_user_files/bd/DEMO/ip/DEMO_processing_system7_0_0/sim/DEMO_processing_system7_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DEMO_processing_system7_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/juanp/OneDrive/Desktop/SEP/ProjectSEPFinal/Hardware_Booster_Project/Hardware_Proyecto_Booster.ip_user_files/bd/DEMO/ip/DEMO_xbar_0/sim/DEMO_xbar_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DEMO_xbar_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/juanp/OneDrive/Desktop/SEP/ProjectSEPFinal/Hardware_Booster_Project/Hardware_Proyecto_Booster.ip_user_files/bd/DEMO/ip/DEMO_xlconcat_0_0/sim/DEMO_xlconcat_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DEMO_xlconcat_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/juanp/OneDrive/Desktop/SEP/ProjectSEPFinal/Hardware_Booster_Project/Hardware_Proyecto_Booster.srcs/sources_1/bd/DEMO/ip/DEMO_AXI_SPWM_driver_0_0/src/Sine_Wave_RAM/simulation/blk_mem_gen_v8_4.v" into library blk_mem_gen_v8_4_4
+INFO: [VRFC 10-311] analyzing module STATE_LOGIC_v8_4
+INFO: [VRFC 10-311] analyzing module beh_vlog_muxf7_v8_4
+INFO: [VRFC 10-311] analyzing module beh_vlog_ff_clr_v8_4
+INFO: [VRFC 10-311] analyzing module beh_vlog_ff_pre_v8_4
+INFO: [VRFC 10-311] analyzing module beh_vlog_ff_ce_clr_v8_4
+INFO: [VRFC 10-311] analyzing module write_netlist_v8_4
+INFO: [VRFC 10-311] analyzing module read_netlist_v8_4
+INFO: [VRFC 10-311] analyzing module blk_mem_axi_write_wrapper_beh_v8_4
+INFO: [VRFC 10-311] analyzing module blk_mem_axi_read_wrapper_beh_v8_4
+INFO: [VRFC 10-311] analyzing module blk_mem_axi_regs_fwd_v8_4
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_v8_4_4_output_stage
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_v8_4_4_softecc_output_reg_stage
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_v8_4_4_mem_module
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_v8_4_4
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/juanp/OneDrive/Desktop/SEP/ProjectSEPFinal/Hardware_Booster_Project/Hardware_Proyecto_Booster.ip_user_files/bd/DEMO/ip/DEMO_AXI_SPWM_driver_0_0/src/Sine_Wave_RAM/sim/Sine_Wave_RAM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Sine_Wave_RAM
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/juanp/OneDrive/Desktop/SEP/ProjectSEPFinal/Hardware_Booster_Project/Hardware_Proyecto_Booster.ip_user_files/bd/DEMO/ip/DEMO_auto_pc_0/sim/DEMO_auto_pc_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DEMO_auto_pc_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/juanp/OneDrive/Desktop/SEP/ProjectSEPFinal/Hardware_Booster_Project/Hardware_Proyecto_Booster.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

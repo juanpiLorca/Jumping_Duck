@@ -1,0 +1,28 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Hardware_Proyecto_Booster.srcs/sources_1/new/BUZZER.vhd" \
+"../../../../Hardware_Proyecto_Booster.srcs/sources_1/imports/sources_1/imports/new/clock_divider.vhd" \
+"../../../../Hardware_Proyecto_Booster.srcs/sources_1/new/Music.vhd" \
+"../../../../Hardware_Proyecto_Booster.ip_user_files/bd/DEMO/ip/DEMO_axi_quad_spi_0_0/sim/DEMO_axi_quad_spi_0_0.vhd" \
+"../../../../Hardware_Proyecto_Booster.ip_user_files/bd/DEMO/ip/DEMO_axi_gpio_0_0/sim/DEMO_axi_gpio_0_0.vhd" \
+"../../../../Hardware_Proyecto_Booster.ip_user_files/bd/DEMO/ip/DEMO_rst_ps7_0_50M_0/sim/DEMO_rst_ps7_0_50M_0.vhd" \
+"../../../../Hardware_Proyecto_Booster.ip_user_files/bd/DEMO/ip/DEMO_axi_quad_spi_1_0/sim/DEMO_axi_quad_spi_1_0.vhd" \
+"../../../../Hardware_Proyecto_Booster.ip_user_files/bd/DEMO/ip/DEMO_axi_iic_0_1/sim/DEMO_axi_iic_0_1.vhd" \
+"../../../../Hardware_Proyecto_Booster.ip_user_files/bd/DEMO/ip/DEMO_BUZZER_0_0/sim/DEMO_BUZZER_0_0.vhd" \
+"../../../../Hardware_Proyecto_Booster.ip_user_files/bd/DEMO/ip/DEMO_Music_0_0/sim/DEMO_Music_0_0.vhd" \
+"../../../../Hardware_Proyecto_Booster.ip_user_files/bd/DEMO/ip/DEMO_axi_timer_0_0/sim/DEMO_axi_timer_0_0.vhd" \
+"../../../../Hardware_Proyecto_Booster.ip_user_files/bd/DEMO/ip/DEMO_axi_timer_1_0/sim/DEMO_axi_timer_1_0.vhd" \
+"../../../../Hardware_Proyecto_Booster.ip_user_files/bd/DEMO/ipshared/9e87/hdl/AXI_SPWM_driver_v1_0_S00_AXI.vhd" \
+"../../../../Hardware_Proyecto_Booster.ip_user_files/bd/DEMO/ipshared/9e87/src/Comp.vhd" \
+"../../../../Hardware_Proyecto_Booster.ip_user_files/bd/DEMO/ipshared/9e87/src/Counter.vhd" \
+"../../../../Hardware_Proyecto_Booster.ip_user_files/bd/DEMO/ipshared/9e87/src/Local_Oscillator.vhd" \
+"../../../../Hardware_Proyecto_Booster.ip_user_files/bd/DEMO/ipshared/9e87/src/SPWM.vhd" \
+"../../../../Hardware_Proyecto_Booster.ip_user_files/bd/DEMO/ipshared/9e87/src/Sine_Memory.vhd" \
+"../../../../Hardware_Proyecto_Booster.ip_user_files/bd/DEMO/ipshared/9e87/src/clock_divider.vhd" \
+"../../../../Hardware_Proyecto_Booster.ip_user_files/bd/DEMO/ipshared/9e87/hdl/AXI_SPWM_driver_v1_0.vhd" \
+"../../../../Hardware_Proyecto_Booster.ip_user_files/bd/DEMO/ip/DEMO_AXI_SPWM_driver_0_0/sim/DEMO_AXI_SPWM_driver_0_0.vhd" \
+"../../../../Hardware_Proyecto_Booster.ip_user_files/bd/DEMO/sim/DEMO.vhd" \
+"../../../../Hardware_Proyecto_Booster.srcs/sources_1/bd/DEMO/hdl/DEMO_wrapper.vhd" \
+
+# Do not sort compile order
+nosort

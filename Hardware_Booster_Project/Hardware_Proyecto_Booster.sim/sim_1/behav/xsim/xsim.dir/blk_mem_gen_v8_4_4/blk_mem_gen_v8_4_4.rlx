@@ -1,0 +1,5 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+C:/Users/juanp/OneDrive/Desktop/SEP/ProjectSEPFinal/Hardware_Booster_Project/Hardware_Proyecto_Booster.srcs/sources_1/bd/DEMO/ip/DEMO_AXI_SPWM_driver_0_0/src/Sine_Wave_RAM/simulation/blk_mem_gen_v8_4.v,1702008127,verilog,,,,STATE_LOGIC_v8_4;beh_vlog_ff_ce_clr_v8_4;beh_vlog_ff_clr_v8_4;beh_vlog_ff_pre_v8_4;beh_vlog_muxf7_v8_4;blk_mem_axi_read_wrapper_beh_v8_4;blk_mem_axi_regs_fwd_v8_4;blk_mem_axi_write_wrapper_beh_v8_4;blk_mem_gen_v8_4_4;blk_mem_gen_v8_4_4_mem_module;blk_mem_gen_v8_4_4_output_stage;blk_mem_gen_v8_4_4_softecc_output_reg_stage;read_netlist_v8_4;write_netlist_v8_4,,axi_vip_v1_1_7;processing_system7_vip_v1_0_9;xilinx_vip,../../../../Hardware_Proyecto_Booster.srcs/sources_1/bd/DEMO/ipshared/6b56/hdl;../../../../Hardware_Proyecto_Booster.srcs/sources_1/bd/DEMO/ipshared/ec67/hdl;C:/Xilinx/Vivado/2020.1/data/xilinx_vip/include,,,,,

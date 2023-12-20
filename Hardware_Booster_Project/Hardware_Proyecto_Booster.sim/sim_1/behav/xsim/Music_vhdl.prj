@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Hardware_Proyecto_Booster.srcs/sources_1/imports/sources_1/imports/new/clock_divider.vhd" \
+"../../../../Hardware_Proyecto_Booster.srcs/sources_1/new/Music.vhd" \
+
+# Do not sort compile order
+nosort

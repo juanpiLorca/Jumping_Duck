@@ -1,0 +1,7 @@
+Running: xsim.dir/Music_behav/xsimk.exe -simmode gui -wdb Music_behav.wdb -simrunnum 0 -socket 61016
+Design successfully loaded
+Design Loading Memory Usage: 7268 KB (Peak: 7268 KB)
+Design Loading CPU Usage: 30 ms
+Simulation completed
+Simulation Memory Usage: 16048 KB (Peak: 16048 KB)
+Simulation CPU Usage: 4264 ms

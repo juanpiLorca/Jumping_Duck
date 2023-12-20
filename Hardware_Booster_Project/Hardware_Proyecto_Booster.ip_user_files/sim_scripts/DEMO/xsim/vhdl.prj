@@ -1,0 +1,22 @@
+vhdl xil_defaultlib  \
+"../../../bd/DEMO/ip/DEMO_axi_quad_spi_0_0/sim/DEMO_axi_quad_spi_0_0.vhd" \
+"../../../bd/DEMO/ip/DEMO_axi_gpio_0_0/sim/DEMO_axi_gpio_0_0.vhd" \
+"../../../bd/DEMO/ip/DEMO_rst_ps7_0_50M_0/sim/DEMO_rst_ps7_0_50M_0.vhd" \
+"../../../bd/DEMO/ip/DEMO_axi_quad_spi_1_0/sim/DEMO_axi_quad_spi_1_0.vhd" \
+"../../../bd/DEMO/ip/DEMO_axi_iic_0_1/sim/DEMO_axi_iic_0_1.vhd" \
+"../../../bd/DEMO/ip/DEMO_BUZZER_0_0/sim/DEMO_BUZZER_0_0.vhd" \
+"../../../bd/DEMO/ip/DEMO_Music_0_0/sim/DEMO_Music_0_0.vhd" \
+"../../../bd/DEMO/ip/DEMO_axi_timer_0_0/sim/DEMO_axi_timer_0_0.vhd" \
+"../../../bd/DEMO/ip/DEMO_axi_timer_1_0/sim/DEMO_axi_timer_1_0.vhd" \
+"../../../bd/DEMO/ipshared/9e87/hdl/AXI_SPWM_driver_v1_0_S00_AXI.vhd" \
+"../../../bd/DEMO/ipshared/9e87/src/Comp.vhd" \
+"../../../bd/DEMO/ipshared/9e87/src/Counter.vhd" \
+"../../../bd/DEMO/ipshared/9e87/src/Local_Oscillator.vhd" \
+"../../../bd/DEMO/ipshared/9e87/src/SPWM.vhd" \
+"../../../bd/DEMO/ipshared/9e87/src/Sine_Memory.vhd" \
+"../../../bd/DEMO/ipshared/9e87/src/clock_divider.vhd" \
+"../../../bd/DEMO/ipshared/9e87/hdl/AXI_SPWM_driver_v1_0.vhd" \
+"../../../bd/DEMO/ip/DEMO_AXI_SPWM_driver_0_0/sim/DEMO_AXI_SPWM_driver_0_0.vhd" \
+"../../../bd/DEMO/sim/DEMO.vhd" \
+
+nosort
